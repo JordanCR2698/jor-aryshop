@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jor-aryshop/static/css/main.aa39d518.css",
+    "main.js": "/jor-aryshop/static/js/main.902a476f.js",
+    "static/js/453.d7446e4a.chunk.js": "/jor-aryshop/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/jor-aryshop/index.html",
+    "main.aa39d518.css.map": "/jor-aryshop/static/css/main.aa39d518.css.map",
+    "main.902a476f.js.map": "/jor-aryshop/static/js/main.902a476f.js.map",
+    "453.d7446e4a.chunk.js.map": "/jor-aryshop/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa39d518.css",
+    "static/js/main.902a476f.js"
+  ]
+}
